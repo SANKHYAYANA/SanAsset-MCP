@@ -1,0 +1,20 @@
+timestamp,emp_id,username,api_key,tool_used,parameters,status
+12-11-2026 14:20,UNKNOWN,UNKNOWN,***,authenticate_user,,failed
+12-11-2026 14:21,E002,vikram,sk_m***002,authenticate_user,,success
+12-11-2026 15:05,E002,vikram,sk_m***002,search_employee,query=,success
+14-11-2026 12:31,E006,arun,sk_e***006,authenticate_user,,success
+14-11-2026 12:32,E006,arun,sk_e***006,get_my_details,,success
+14-11-2026 12:33,E006,arun,sk_e***006,search_employee,query=Rahul,success
+14-11-2026 12:34,E006,arun,sk_e***006,search_employee,query=,success
+14-11-2026 12:35,E006,arun,sk_e***006,search_employee,query=E002,success
+14-11-2026 14:20,E011,ankit,sk_e***011,authenticate_user,,success
+14-11-2026 14:20,E011,ankit,sk_e***011,get_my_details,,success
+14-11-2026 14:23,E011,ankit,sk_e***011,search_employee,query=E003,success
+14-11-2026 14:28,E002,vikram,sk_m***002,authenticate_user,,success
+14-11-2026 14:28,E002,vikram,sk_m***002,get_my_details,,success
+14-11-2026 14:28,E002,vikram,sk_m***002,search_employee,query=,success
+14-11-2026 14:32,E002,vikram,sk_m***002,authenticate_user,,success
+14-11-2026 14:33,E002,vikram,sk_m***002,get_my_details,,success
+14-11-2026 14:33,E002,vikram,sk_m***002,search_employee,query=,success
+2026-11-15 14:49:10,E013,farhan,sk_e***013,authenticate_user,,success
+2026-11-15 14:49:51,E013,farhan,sk_e***013,search_company_docs,query=what is the leave policy?,success

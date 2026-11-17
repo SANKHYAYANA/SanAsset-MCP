@@ -1,0 +1,49 @@
+asset_id,type,brand,model,serial_number,status,assigned_to,department
+A001,laptop,Dell,Latitude 5540,DL-SN-10001,assigned,E001,Admin
+A002,monitor,LG,27UK850,LG-SN-20001,assigned,E001,Admin
+A003,laptop,Dell,Latitude 5540,DL-SN-10002,assigned,E002,Site IT
+A004,monitor,Samsung,Odyssey G5,SM-SN-20002,assigned,E002,Site IT
+A005,laptop,HP,ProBook 450,HP-SN-10003,assigned,E003,Game Development
+A006,monitor,Dell,UltraSharp U2723,DL-SN-20003,assigned,E003,Game Development
+A007,laptop,Dell,Latitude 5540,DL-SN-10004,assigned,E004,Game Designing
+A008,monitor,LG,27UK850,LG-SN-20004,assigned,E004,Game Designing
+A009,tablet,Wacom,Cintiq Pro 16,WC-SN-30001,assigned,E004,Game Designing
+A010,laptop,HP,ProBook 450,HP-SN-10005,assigned,E005,Testing
+A011,monitor,Samsung,Odyssey G5,SM-SN-20005,assigned,E005,Testing
+A012,laptop,Lenovo,ThinkPad E16,LN-SN-10006,assigned,E006,Site IT
+A013,laptop,Lenovo,ThinkPad E16,LN-SN-10007,assigned,E007,Site IT
+A014,laptop,Dell,Latitude 3440,DL-SN-10008,assigned,E008,Site IT
+A015,laptop,HP,ProBook 440,HP-SN-10009,assigned,E009,Site IT
+A016,laptop,Lenovo,ThinkPad E16,LN-SN-10010,assigned,E010,Site IT
+A017,laptop,Dell,Latitude 5540,DL-SN-10011,assigned,E011,Game Development
+A018,monitor,Dell,UltraSharp U2723,DL-SN-20011,assigned,E011,Game Development
+A019,laptop,HP,ProBook 450,HP-SN-10012,assigned,E012,Game Development
+A020,laptop,Dell,Latitude 3440,DL-SN-10013,assigned,E013,Game Development
+A021,laptop,Lenovo,ThinkPad E16,LN-SN-10014,assigned,E014,Game Development
+A022,laptop,HP,ProBook 450,HP-SN-10015,assigned,E015,Game Development
+A023,laptop,Dell,Latitude 3440,DL-SN-10016,assigned,E016,Game Development
+A024,laptop,Dell,Latitude 5540,DL-SN-10017,assigned,E017,Game Designing
+A025,monitor,LG,27UK850,LG-SN-20017,assigned,E017,Game Designing
+A026,tablet,Wacom,Cintiq Pro 16,WC-SN-30002,assigned,E017,Game Designing
+A027,laptop,HP,ProBook 450,HP-SN-10018,assigned,E018,Game Designing
+A028,tablet,Wacom,Intuos Pro,WC-SN-30003,assigned,E018,Game Designing
+A029,laptop,Dell,Latitude 3440,DL-SN-10019,assigned,E019,Game Designing
+A030,laptop,Lenovo,ThinkPad E16,LN-SN-10020,assigned,E020,Game Designing
+A031,laptop,HP,ProBook 440,HP-SN-10021,assigned,E021,Game Designing
+A032,laptop,Dell,Latitude 5540,DL-SN-10022,assigned,E022,Testing
+A033,laptop,HP,ProBook 450,HP-SN-10023,assigned,E023,Testing
+A034,laptop,Dell,Latitude 3440,DL-SN-10024,assigned,E024,Testing
+A035,laptop,Lenovo,ThinkPad E16,LN-SN-10025,assigned,E025,Testing
+A036,laptop,HP,ProBook 440,HP-SN-10026,assigned,E026,Testing
+A037,monitor,Samsung,Odyssey G5,SM-SN-20027,assigned,E024,Testing
+A038,laptop,Dell,Latitude 5540,DL-SN-10027,available,,
+A039,laptop,HP,ProBook 450,HP-SN-10028,available,,
+A040,laptop,Lenovo,ThinkPad E16,LN-SN-10029,available,,
+A041,monitor,Dell,UltraSharp U2723,DL-SN-20028,available,,
+A042,monitor,LG,27UK850,LG-SN-20029,available,,
+A043,tablet,Wacom,Intuos Pro,WC-SN-30004,available,,
+A044,keyboard,Logitech,MX Keys,LG-SN-40001,available,,
+A045,mouse,Logitech,MX Master 3,LG-SN-50001,available,,
+A046,headset,Sony,WH-1000XM5,SN-SN-60001,available,,
+A047,laptop,Dell,Latitude 3440,DL-SN-10030,under_repair,,
+A048,monitor,Samsung,Odyssey G5,SM-SN-20030,under_repair,,

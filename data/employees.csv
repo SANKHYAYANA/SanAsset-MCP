@@ -1,0 +1,27 @@
+emp_id,name,department,designation,manager_id,join_date,phone
+E001,Sankhyayana,Admin,CEO,,01-01-2024,9000000001
+E002,Vikram Sharma,Site IT,IT Manager,E001,15-02-2024,9000000002
+E003,Neha Kapoor,Game Development,Dev Manager,E001,01-03-2024,9000000003
+E004,Rohan Mehta,Game Designing,Design Manager,E001,10-03-2024,9000000004
+E005,Divya Nair,Testing,QA Manager,E001,01-04-2024,9000000005
+E006,Arun Pillai,Site IT,System Admin,E002,10-05-2024,9000000006
+E007,Meera Joshi,Site IT,Network Engineer,E002,15-05-2024,9000000007
+E008,Karthik Rajan,Site IT,Help Desk,E002,01-06-2024,9000000008
+E009,Pooja Iyer,Site IT,IT Support,E002,10-06-2024,9000000009
+E010,Sanjay Verma,Site IT,Security Analyst,E002,01-07-2024,9000000010
+E011,Ankit Jain,Game Development,Lead Developer,E003,01-05-2024,9000000011
+E012,Priyanka Das,Game Development,Backend Developer,E003,20-05-2024,9000000012
+E013,Farhan Sheikh,Game Development,Frontend Developer,E003,01-06-2024,9000000013
+E014,Swati Kulkarni,Game Development,Game Programmer,E003,15-06-2024,9000000014
+E015,Rahul Bose,Game Development,Engine Developer,E003,01-07-2024,9000000015
+E016,Deepak Tiwari,Game Development,DevOps Engineer,E003,10-07-2024,9000000016
+E017,Kavita Reddy,Game Designing,Lead Designer,E004,01-05-2024,9000000017
+E018,Imran Ali,Game Designing,3D Artist,E004,15-05-2024,9000000018
+E019,Shruti Patel,Game Designing,UI/UX Designer,E004,01-06-2024,9000000019
+E020,Naveen Kumar,Game Designing,Concept Artist,E004,20-06-2024,9000000020
+E021,Ritika Sharma,Game Designing,Level Designer,E004,01-07-2024,9000000021
+E022,Amit Saxena,Testing,Lead QA,E005,10-05-2024,9000000022
+E023,Lakshmi Menon,Testing,QA Engineer,E005,01-06-2024,9000000023
+E024,Varun Gupta,Testing,Automation Tester,E005,15-06-2024,9000000024
+E025,Nisha Agarwal,Testing,Performance Tester,E005,01-07-2024,9000000025
+E026,Rajesh Pandey,Testing,Game Tester,E005,10-07-2024,9000000026
